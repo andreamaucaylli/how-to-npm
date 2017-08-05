@@ -1,0 +1,23 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "Basic development enviroment setup.",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreamaucaylli/how-to-npm"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "js"
+  ],
+  "author": "Andrea Maucaylli",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
